@@ -49,7 +49,7 @@ Run `pip install qrcode` in your terminal/cmd.
 
 Before running the script, replace `'Your_SSID'`, `'Your_password'`, and `'WPA'` in the script with your actual WiFi SSID, password, and security type respectively. 
 
-Once you've done that, you can run the script with `python wifi_qrcode.py` (replace `wifi_qrcode.py` with the actual name of your script file). The generated QR code image will be saved in the same directory as `wifi_qrcode.png`.
+Once you've done that, you can run the script with `python3 script.py`. The generated QR code image will be saved in the same directory as `wifi_qrcode.png`.
 
 ## Disclaimer
 

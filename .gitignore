@@ -43,3 +43,6 @@ ENV/
 
 # secrets
 .env
+
+# outputs
+*.png
