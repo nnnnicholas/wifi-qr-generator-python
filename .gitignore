@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pickle
+*.pyc
+*.pyz
+*.pyzw
+*.egg
+*.egg-info/
+dist/
+build/
+develop-eggs/
+eggs/
+parts/
+var/
+sdist/
+local/
+lib/
+lib64/
+__pypackages__/
+
+# Directories typically used for virtual environments
+venv/
+ENV/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# pytest cache
+.pytest_cache/
+.cache/
+
+# secrets
+.env
